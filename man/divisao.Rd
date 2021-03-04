@@ -14,9 +14,3 @@ divisao(a, b)
 \description{
 Esta função serve para dividir um numero por outro
 }
-\examples{
-
-divisao(4,2)
-resposta 2
-
-}

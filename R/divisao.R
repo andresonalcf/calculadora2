@@ -5,7 +5,7 @@
 #'@param a, numero que será dividido
 #'@param b, outro número que irar dividir
 #'
-#'@examples
+#'@exadivimples
 #'
 #'divisao(4,2)
 #'resposta 2
